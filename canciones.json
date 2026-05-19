@@ -1,0 +1,28 @@
+[
+    
+    {
+    "id": 1,
+    "titulo": "Cumpleaños Feliz",
+    "artista": "Popular",
+    "tono_original": "C",
+    "genero": "Tradicional",
+    "letra_con_acordes": ["[C]Cumpleaños fe[G]liz", "te de[G7]seamos a [C]ti", "cumpleaños fe[F]liz", "cumple[C]años fe[G]liz", "te de[G7]seamos a [C]ti."]
+    },
+    {
+    "id": 2,
+    "titulo": "Estrellita Dónde Estás",
+    "artista": "Popular",
+    "tono_original": "C",
+    "genero": "Infantil",
+    "letra_con_acordes": ["[C]Estre[F]llita [C]dónde es[C]tás", "[F]me pre[C]gunto [G7]quién se[C]rás", "[C]En el [F]cielo [C]o en el [G7]mar", "[C]un dia[F]mante [C]de ver[G7]dad."]
+    },
+    {
+    "id": 3,
+    "titulo": "La Bamba (Fragmento)",
+    "artista": "Ritchie Valens",
+    "tono_original": "C",
+    "genero": "Rock and Roll / Folk",
+    "letra_con_acordes": ["Para bai[C]lar la [F]bamba", "[G] para bai[C]lar la [F]bamba se nece[G]sita una poca de [C]gracia", "[F] Una poca de [G]gracia pa' mí pa' [C]ti", "ay a[F]rriba y a[G]rriba."]
+    }
+    
+]
